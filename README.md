@@ -15,3 +15,10 @@
 # Terraform
 
 ![](img/2.PNG)
+
+## commands
+
+terraform init (initialise terraform system)
+terraform plan (see what its going to do )
+terraform apply (apply the plan )
+terraform destroy
